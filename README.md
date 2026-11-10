@@ -1,4 +1,4 @@
-# Automated BL Setup
+# Automated PL Setup
 
 ## Overview
 
